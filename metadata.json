@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of DocNet",
+  "description": "The clinical network for cases, skills, and careers. Share real and synthetic cases, practice with AI simulations, and grow your professional profile.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
